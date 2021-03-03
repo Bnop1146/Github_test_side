@@ -29,7 +29,7 @@
 
 <!-- Her skal sidens indhold ligge -->
 
-<p>Dette er HTML</p>
+<p>Dette er HTML og github er smart</p>
 
 <?php
 
